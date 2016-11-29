@@ -15,7 +15,7 @@ Online Demo
 
 You may try out the interface in this online demo:
 
-* <https://myles.github.io/bookmarks.public/index.html>
+* <https://myles.github.io/bookmarks/index.html>
 
 
 
